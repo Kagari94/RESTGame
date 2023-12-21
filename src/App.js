@@ -83,7 +83,7 @@ function App() {
       alert(error)
     }
   }
-
+  //Set scores
   useEffect(() => {
     const fetchUsers = async () => {
       try {
